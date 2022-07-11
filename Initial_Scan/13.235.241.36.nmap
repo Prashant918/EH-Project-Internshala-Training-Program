@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///usr/local/bin/../share/nmap/nmap.xsl" type="text/xsl"?><nmaprun start="1657520549" profile_name="Intense scan" xmloutputversion="1.04" scanner="nmap" version="7.92" startstr="Mon Jul 11 11:52:29 2022" args="nmap -T4 -A -v 13.235.241.36"><scaninfo services="1,3-4,6-7,9,13,17,19-26,30,32-33,37,42-43,49,53,70,79-85,88-90,99-100,106,109-111,113,119,125,135,139,143-144,146,161,163,179,199,211-212,222,254-256,259,264,280,301,306,311,340,366,389,406-407,416-417,425,427,443-445,458,464-465,481,497,500,512-515,524,541,543-545,548,554-555,563,587,593,616-617,625,631,636,646,648,666-668,683,687,691,700,705,711,714,720,722,726,749,765,777,783,787,800-801,808,843,873,880,888,898,900-903,911-912,981,987,990,992-993,995,999-1002,1007,1009-1011,1021-1100,1102,1104-1108,1110-1114,1117,1119,1121-1124,1126,1130-1132,1137-1138,1141,1145,1147-1149,1151-1152,1154,1163-1166,1169,1174-1175,1183,1185-1187,1192,1198-1199,1201,1213,1216-1218,1233-1234,1236,1244,1247-1248,1259,1271-1272,1277,1287,1296,1300-1301,1309-1311,1322,1328,1334,1352,1417,1433-1434,1443,1455,1461,1494,1500-1501,1503,1521,1524,1533,1556,1580,1583,1594,1600,1641,1658,1666,1687-1688,1700,1717-1721,1723,1755,1761,1782-1783,1801,1805,1812,1839-1840,1862-1864,1875,1900,1914,1935,1947,1971-1972,1974,1984,1998-2010,2013,2020-2022,2030,2033-2035,2038,2040-2043,2045-2049,2065,2068,2099-2100,2103,2105-2107,2111,2119,2121,2126,2135,2144,2160-2161,2170,2179,2190-2191,2196,2200,2222,2251,2260,2288,2301,2323,2366,2381-2383,2393-2394,2399,2401,2492,2500,2522,2525,2557,2601-2602,2604-2605,2607-2608,2638,2701-2702,2710,2717-2718,2725,2800,2809,2811,2869,2875,2909-2910,2920,2967-2968,2998,3000-3001,3003,3005-3007,3011,3013,3017,3030-3031,3052,3071,3077,3128,3168,3211,3221,3260-3261,3268-3269,3283,3300-3301,3306,3322-3325,3333,3351,3367,3369-3372,3389-3390,3404,3476,3493,3517,3527,3546,3551,3580,3659,3689-3690,3703,3737,3766,3784,3800-3801,3809,3814,3826-3828,3851,3869,3871,3878,3880,3889,3905,3914,3918,3920,3945,3971,3986,3995,3998,4000-4006,4045,4111,4125-4126,4129,4224,4242,4279,4321,4343,4443-4446,4449,4550,4567,4662,4848,4899-4900,4998,5000-5004,5009,5030,5033,5050-5051,5054,5060-5061,5080,5087,5100-5102,5120,5190,5200,5214,5221-5222,5225-5226,5269,5280,5298,5357,5405,5414,5431-5432,5440,5500,5510,5544,5550,5555,5560,5566,5631,5633,5666,5678-5679,5718,5730,5800-5802,5810-5811,5815,5822,5825,5850,5859,5862,5877,5900-5904,5906-5907,5910-5911,5915,5922,5925,5950,5952,5959-5963,5987-5989,5998-6007,6009,6025,6059,6100-6101,6106,6112,6123,6129,6156,6346,6389,6502,6510,6543,6547,6565-6567,6580,6646,6666-6669,6689,6692,6699,6779,6788-6789,6792,6839,6881,6901,6969,7000-7002,7004,7007,7019,7025,7070,7100,7103,7106,7200-7201,7402,7435,7443,7496,7512,7625,7627,7676,7741,7777-7778,7800,7911,7920-7921,7937-7938,7999-8002,8007-8011,8021-8022,8031,8042,8045,8080-8090,8093,8099-8100,8180-8181,8192-8194,8200,8222,8254,8290-8292,8300,8333,8383,8400,8402,8443,8500,8600,8649,8651-8652,8654,8701,8800,8873,8888,8899,8994,9000-9003,9009-9011,9040,9050,9071,9080-9081,9090-9091,9099-9103,9110-9111,9200,9207,9220,9290,9415,9418,9485,9500,9502-9503,9535,9575,9593-9595,9618,9666,9876-9878,9898,9900,9917,9929,9943-9944,9968,9998-10004,10009-10010,10012,10024-10025,10082,10180,10215,10243,10566,10616-10617,10621,10626,10628-10629,10778,11110-11111,11967,12000,12174,12265,12345,13456,13722,13782-13783,14000,14238,14441-14442,15000,15002-15004,15660,15742,16000-16001,16012,16016,16018,16080,16113,16992-16993,17877,17988,18040,18101,18988,19101,19283,19315,19350,19780,19801,19842,20000,20005,20031,20221-20222,20828,21571,22939,23502,24444,24800,25734-25735,26214,27000,27352-27353,27355-27356,27715,28201,30000,30718,30951,31038,31337,32768-32785,33354,33899,34571-34573,35500,38292,40193,40911,41511,42510,44176,44442-44443,44501,45100,48080,49152-49161,49163,49165,49167,49175-49176,49400,49999-50003,50006,50300,50389,50500,50636,50800,51103,51493,52673,52822,52848,52869,54045,54328,55055-55056,55555,55600,56737-56738,57294,57797,58080,60020,60443,61532,61900,62078,63331,64623,64680,65000,65129,65389" protocol="tcp" numservices="1000" type="syn"></scaninfo><verbose level="1"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.92 ( https://nmap.org ) at 2022-07-11 11:52 IST
+NSE: Loaded 155 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 11:52
+Completed NSE at 11:52, 0.00s elapsed
+Initiating NSE at 11:52
+Completed NSE at 11:52, 0.00s elapsed
+Initiating NSE at 11:52
+Completed NSE at 11:52, 0.00s elapsed
+Initiating Ping Scan at 11:52
+Scanning 13.235.241.36 [4 ports]
+Completed Ping Scan at 11:52, 0.02s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 11:52
+Completed Parallel DNS resolution of 1 host. at 11:52, 0.03s elapsed
+Initiating SYN Stealth Scan at 11:52
+Scanning ec2-13-235-241-36.ap-south-1.compute.amazonaws.com (13.235.241.36) [1000 ports]
+Discovered open port 80/tcp on 13.235.241.36
+Discovered open port 3306/tcp on 13.235.241.36
+Discovered open port 8080/tcp on 13.235.241.36
+Discovered open port 443/tcp on 13.235.241.36
+Discovered open port 4000/tcp on 13.235.241.36
+Completed SYN Stealth Scan at 11:52, 9.30s elapsed (1000 total ports)
+Initiating Service scan at 11:52
+Scanning 5 services on ec2-13-235-241-36.ap-south-1.compute.amazonaws.com (13.235.241.36)
+Completed Service scan at 11:52, 12.27s elapsed (5 services on 1 host)
+Initiating OS detection (try #1) against ec2-13-235-241-36.ap-south-1.compute.amazonaws.com (13.235.241.36)
+Retrying OS detection (try #2) against ec2-13-235-241-36.ap-south-1.compute.amazonaws.com (13.235.241.36)
+Initiating Traceroute at 11:52
+Completed Traceroute at 11:52, 3.03s elapsed
+Initiating Parallel DNS resolution of 8 hosts. at 11:52
+Completed Parallel DNS resolution of 8 hosts. at 11:53, 0.55s elapsed
+NSE: Script scanning 13.235.241.36.
+Initiating NSE at 11:53
+Completed NSE at 11:53, 1.50s elapsed
+Initiating NSE at 11:53
+Completed NSE at 11:53, 0.48s elapsed
+Initiating NSE at 11:53
+Completed NSE at 11:53, 0.00s elapsed
+Nmap scan report for ec2-13-235-241-36.ap-south-1.compute.amazonaws.com (13.235.241.36)
+Host is up (0.057s latency).
+Not shown: 988 filtered tcp ports (no-response)
+PORT     STATE  SERVICE        VERSION
+80/tcp   open   http           nginx
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: 404 Not Found
+443/tcp  open   ssl/http       nginx
+| http-methods: 
+|_  Supported Methods: GET HEAD
+|_http-title: Welcome to CentOS
+| ssl-cert: Subject: commonName=*.vida.id
+| Subject Alternative Name: DNS:*.vida.id, DNS:vida.id
+| Issuer: commonName=Sectigo RSA Domain Validation Secure Server CA/organizationName=Sectigo Limited/stateOrProvinceName=Greater Manchester/countryName=GB
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2021-03-03T00:00:00
+| Not valid after:  2022-04-03T23:59:59
+| MD5:   7391 9bc7 57b6 19be 943d c7cd 8f14 16c6
+|_SHA-1: f573 9354 4327 d8ef 79ac 4cef 5cb8 d1a1 fbe6 d4d2
+3000/tcp closed ppp
+3306/tcp open   mysql          MySQL 8.0.25
+| mysql-info: 
+|   Protocol: 10
+|   Version: 8.0.25
+|   Thread ID: 407338
+|   Capabilities flags: 65535
+|   Some Capabilities: LongColumnFlag, Support41Auth, FoundRows, Speaks41ProtocolOld, SupportsTransactions, LongPassword, IgnoreSpaceBeforeParenthesis, DontAllowDatabaseTableColumn, SwitchToSSLAfterHandshake, InteractiveClient, ODBCClient, SupportsLoadDataLocal, SupportsCompression, ConnectWithDatabase, IgnoreSigpipes, Speaks41ProtocolNew, SupportsMultipleStatments, SupportsMultipleResults, SupportsAuthPlugins
+|   Status: Autocommit
+|   Salt: E=\x0F?l\x1Al&amp;\x17&lt;=\x1C\x10Js
+| \x01(\x11\x13
+|_  Auth Plugin Name: caching_sha2_password
+| ssl-cert: Subject: commonName=MySQL_Server_8.0.25_Auto_Generated_Server_Certificate
+| Issuer: commonName=MySQL_Server_8.0.25_Auto_Generated_CA_Certificate
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2021-05-28T11:44:48
+| Not valid after:  2031-05-26T11:44:48
+| MD5:   5d66 d809 f566 296e 9252 d115 4d89 9ee2
+|_SHA-1: 6e3a 740f f304 9115 74fa 70f0 dd98 c68b b99d e31d
+|_ssl-date: TLS randomness does not represent time
+3333/tcp closed dec-notes
+4000/tcp open   http           nginx 1.21.0
+| http-methods: 
+|_  Supported Methods: GET HEAD
+|_http-title: Health
+|_http-favicon: Unknown favicon MD5: 69525654557348C43F906E6324260103
+|_http-server-header: nginx/1.21.0
+5000/tcp closed upnp
+5100/tcp closed admd
+5200/tcp closed targus-getdata
+8080/tcp open   http-proxy
+| fingerprint-strings: 
+|   FourOhFourRequest: 
+|     HTTP/1.1 404 
+|     Vary: Origin
+|     Vary: Access-Control-Request-Method
+|     Vary: Access-Control-Request-Headers
+|     Content-Disposition: inline;filename=f.txt
+|     Content-Type: application/json
+|     Date: Mon, 11 Jul 2022 06:22:46 GMT
+|     Connection: close
+|     {"timestamp":"2022-07-11T06:22:46.643+00:00","status":404,"error":"Not Found","message":"","path":"/nice%20ports%2C/Tri%6Eity.txt%2ebak"}
+|   GetRequest: 
+|     HTTP/1.1 404 
+|     Vary: Origin
+|     Vary: Access-Control-Request-Method
+|     Vary: Access-Control-Request-Headers
+|     Content-Type: application/json
+|     Date: Mon, 11 Jul 2022 06:22:46 GMT
+|     Connection: close
+|     {"timestamp":"2022-07-11T06:22:46.377+00:00","status":404,"error":"Not Found","message":"","path":"/"}
+|   HTTPOptions: 
+|     HTTP/1.1 404 
+|     Vary: Origin
+|     Vary: Access-Control-Request-Method
+|     Vary: Access-Control-Request-Headers
+|     Content-Type: application/json
+|     Date: Mon, 11 Jul 2022 06:22:46 GMT
+|     Connection: close
+|     {"timestamp":"2022-07-11T06:22:46.614+00:00","status":404,"error":"Not Found","message":"","path":"/"}
+|   RTSPRequest: 
+|     HTTP/1.1 400 
+|     Content-Type: text/html;charset=utf-8
+|     Content-Language: en
+|     Content-Length: 435
+|     Date: Mon, 11 Jul 2022 06:22:46 GMT
+|     Connection: close
+|     &lt;!doctype html&gt;&lt;html lang="en"&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 
+|     Request&lt;/title&gt;&lt;style type="text/css"&gt;body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 
+|_    Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;
+|_http-title: Site doesn't have a title (application/json).
+8443/tcp closed https-alt
+9200/tcp closed wap-wsp
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8080-TCP:V=7.92%I=7%D=7/11%Time=62CBC1B6%P=x86_64-apple-darwin17.7.
+SF:0%r(GetRequest,128,"HTTP/1\.1\x20404\x20\r\nVary:\x20Origin\r\nVary:\x2
+SF:0Access-Control-Request-Method\r\nVary:\x20Access-Control-Request-Heade
+SF:rs\r\nContent-Type:\x20application/json\r\nDate:\x20Mon,\x2011\x20Jul\x
+SF:202022\x2006:22:46\x20GMT\r\nConnection:\x20close\r\n\r\n{\"timestamp\"
+SF::\"2022-07-11T06:22:46\.377\+00:00\",\"status\":404,\"error\":\"Not\x20
+SF:Found\",\"message\":\"\",\"path\":\"/\"}")%r(HTTPOptions,128,"HTTP/1\.1
+SF:\x20404\x20\r\nVary:\x20Origin\r\nVary:\x20Access-Control-Request-Metho
+SF:d\r\nVary:\x20Access-Control-Request-Headers\r\nContent-Type:\x20applic
+SF:ation/json\r\nDate:\x20Mon,\x2011\x20Jul\x202022\x2006:22:46\x20GMT\r\n
+SF:Connection:\x20close\r\n\r\n{\"timestamp\":\"2022-07-11T06:22:46\.614\+
+SF:00:00\",\"status\":404,\"error\":\"Not\x20Found\",\"message\":\"\",\"pa
+SF:th\":\"/\"}")%r(RTSPRequest,24E,"HTTP/1\.1\x20400\x20\r\nContent-Type:\
+SF:x20text/html;charset=utf-8\r\nContent-Language:\x20en\r\nContent-Length
+SF::\x20435\r\nDate:\x20Mon,\x2011\x20Jul\x202022\x2006:22:46\x20GMT\r\nCo
+SF:nnection:\x20close\r\n\r\n&lt;!doctype\x20html&gt;&lt;html\x20lang=\"en\"&gt;&lt;head&gt;
+SF:&lt;title&gt;HTTP\x20Status\x20400\x20\xe2\x80\x93\x20Bad\x20Request&lt;/title&gt;&lt;
+SF:style\x20type=\"text/css\"&gt;body\x20{font-family:Tahoma,Arial,sans-serif
+SF:;}\x20h1,\x20h2,\x20h3,\x20b\x20{color:white;background-color:#525D76;}
+SF:\x20h1\x20{font-size:22px;}\x20h2\x20{font-size:16px;}\x20h3\x20{font-s
+SF:ize:14px;}\x20p\x20{font-size:12px;}\x20a\x20{color:black;}\x20\.line\x
+SF:20{height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;bod
+SF:y&gt;&lt;h1&gt;HTTP\x20Status\x20400\x20\xe2\x80\x93\x20Bad\x20Request&lt;/h1&gt;&lt;/bod
+SF:y&gt;&lt;/html&gt;")%r(FourOhFourRequest,177,"HTTP/1\.1\x20404\x20\r\nVary:\x20O
+SF:rigin\r\nVary:\x20Access-Control-Request-Method\r\nVary:\x20Access-Cont
+SF:rol-Request-Headers\r\nContent-Disposition:\x20inline;filename=f\.txt\r
+SF:\nContent-Type:\x20application/json\r\nDate:\x20Mon,\x2011\x20Jul\x2020
+SF:22\x2006:22:46\x20GMT\r\nConnection:\x20close\r\n\r\n{\"timestamp\":\"2
+SF:022-07-11T06:22:46\.643\+00:00\",\"status\":404,\"error\":\"Not\x20Foun
+SF:d\",\"message\":\"\",\"path\":\"/nice%20ports%2C/Tri%6Eity\.txt%2ebak\"
+SF:}");
+Aggressive OS guesses: Linux 4.0 (91%), Linux 3.10 - 3.13 (91%), Linux 3.10 (90%), Linux 3.10 - 4.11 (90%), Linux 3.11 - 3.12 (90%), Linux 3.2 (90%), Crestron XPanel control system (89%), HP P2000 G3 NAS device (89%), MikroTik RouterOS 6.36 (88%), Linux 4.4 (88%)
+No exact OS matches for host (test conditions non-ideal).
+Uptime guess: 7.071 days (since Mon Jul  4 10:10:08 2022)
+Network Distance: 16 hops
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+TRACEROUTE (using port 8443/tcp)
+HOP RTT       ADDRESS
+1   2.47 ms   192.168.0.1
+2   3.14 ms   183.87.255.238
+3   ...
+4   7.08 ms   99.83.71.254
+5   6.87 ms   52.95.65.193
+6   6.59 ms   52.95.64.254
+7   6.72 ms   52.95.64.203
+8   268.19 ms 99.83.76.153
+9   5.20 ms   99.83.76.164
+10  ... 15
+16  248.13 ms ec2-13-235-241-36.ap-south-1.compute.amazonaws.com (13.235.241.36)
+
+NSE: Script Post-scanning.
+Initiating NSE at 11:53
+Completed NSE at 11:53, 0.00s elapsed
+Initiating NSE at 11:53
+Completed NSE at 11:53, 0.00s elapsed
+Initiating NSE at 11:53
+Completed NSE at 11:53, 0.00s elapsed
+Read data files from: /usr/local/bin/../share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 33.20 seconds
+           Raw packets sent: 3079 (139.008KB) | Rcvd: 91 (5.023KB)
+</output><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="13.235.241.36"></address><hostnames><hostname type="PTR" name="ec2-13-235-241-36.ap-south-1.compute.amazonaws.com"></hostname></hostnames><ports><extraports count="988" state="filtered"></extraports><port protocol="tcp" portid="80"><state reason="syn-ack" state="open" reason_ttl="51"></state><service product="nginx" method="probed" conf="10" name="http"></service></port><port protocol="tcp" portid="443"><state reason="syn-ack" state="open" reason_ttl="51"></state><service product="nginx" method="probed" conf="10" name="http"></service></port><port protocol="tcp" portid="3000"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="ppp"></service></port><port protocol="tcp" portid="3306"><state reason="syn-ack" state="open" reason_ttl="51"></state><service product="MySQL" version="8.0.25" method="probed" conf="10" name="mysql"></service></port><port protocol="tcp" portid="3333"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="dec-notes"></service></port><port protocol="tcp" portid="4000"><state reason="syn-ack" state="open" reason_ttl="50"></state><service product="nginx" version="1.21.0" method="probed" conf="10" name="http"></service></port><port protocol="tcp" portid="5000"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="upnp"></service></port><port protocol="tcp" portid="5100"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="admd"></service></port><port protocol="tcp" portid="5200"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="targus-getdata"></service></port><port protocol="tcp" portid="8080"><state reason="syn-ack" state="open" reason_ttl="50"></state><service method="probed" conf="10" name="http-proxy"></service></port><port protocol="tcp" portid="8443"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="https-alt"></service></port><port protocol="tcp" portid="9200"><state reason="reset" state="closed" reason_ttl="51"></state><service method="table" conf="3" name="wap-wsp"></service></port></ports><os><portused state="open" portid="80" proto="tcp"></portused><portused state="closed" portid="3000" proto="tcp"></portused><osmatch line="67008" name="Linux 4.0" accuracy="91"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="4.X" accuracy="91"></osclass></osmatch><osmatch line="63361" name="Linux 3.10 - 3.13" accuracy="91"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="3.X" accuracy="91"></osclass></osmatch><osmatch line="63158" name="Linux 3.10" accuracy="90"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="3.X" accuracy="90"></osclass></osmatch><osmatch line="63442" name="Linux 3.10 - 4.11" accuracy="90"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="4.X" accuracy="90"></osclass></osmatch><osmatch line="63546" name="Linux 3.11 - 3.12" accuracy="90"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="3.X" accuracy="90"></osclass></osmatch><osmatch line="65014" name="Linux 3.2" accuracy="90"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="3.X" accuracy="90"></osclass></osmatch><osmatch line="19546" name="Crestron XPanel control system" accuracy="89"><osclass type="specialized" osfamily="2-Series" vendor="Crestron" osgen="" accuracy="89"></osclass></osmatch><osmatch line="35040" name="HP P2000 G3 NAS device" accuracy="89"><osclass type="storage-misc" osfamily="embedded" vendor="HP" osgen="" accuracy="89"></osclass></osmatch><osmatch line="85986" name="MikroTik RouterOS 6.36" accuracy="88"><osclass type="router" osfamily="RouterOS" vendor="MikroTik" osgen="6.X" accuracy="88"></osclass></osmatch><osmatch line="67389" name="Linux 4.4" accuracy="88"><osclass type="general purpose" osfamily="Linux" vendor="Linux" osgen="4.X" accuracy="88"></osclass></osmatch></os><uptime lastboot="Mon Jul  4 10:10:08 2022" seconds="610974"></uptime><tcpsequence index="258" values="A1ED77F0,996683F3,5013DDD2,90FF58D8,E19E6428,C3729E21" difficulty="Good luck!"></tcpsequence><ipidsequence values="0,0,0,0,0,0" class="All zeros"></ipidsequence><tcptssequence values="DFF61610,DFF60F08,DFF61098,DFF60F08,DFF61098,DFF61160" class="other"></tcptssequence><trace port="8443" proto="tcp"><hop rtt="2.47" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="3.14" host="" ipaddr="183.87.255.238" ttl="2"></hop><hop rtt="7.08" host="" ipaddr="99.83.71.254" ttl="4"></hop><hop rtt="6.87" host="" ipaddr="52.95.65.193" ttl="5"></hop><hop rtt="6.59" host="" ipaddr="52.95.64.254" ttl="6"></hop><hop rtt="6.72" host="" ipaddr="52.95.64.203" ttl="7"></hop><hop rtt="268.19" host="" ipaddr="99.83.76.153" ttl="8"></hop><hop rtt="5.20" host="" ipaddr="99.83.76.164" ttl="9"></hop><hop rtt="248.13" host="ec2-13-235-241-36.ap-south-1.compute.amazonaws.com" ipaddr="13.235.241.36" ttl="16"></hop></trace></host><runstats><finished timestr="Mon Jul 11 11:53:02 2022" time="1657520582"></finished><hosts down="0" total="1" up="1"></hosts></runstats></nmaprun>
